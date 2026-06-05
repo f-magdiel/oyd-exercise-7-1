@@ -1,0 +1,4 @@
+dlq_arn = "arn:aws:sqs:us-east-1:230195036018:orders-dlq"
+dlq_url = "https://sqs.us-east-1.amazonaws.com/230195036018/orders-dlq"
+queue_arn = "arn:aws:sqs:us-east-1:230195036018:orders"
+queue_url = "https://sqs.us-east-1.amazonaws.com/230195036018/orders"
